@@ -1,0 +1,71 @@
+name = GCFSI Knowledge Platform
+description = A clean install of the GCFSI Knowledge Platform.
+core = 7.x
+; Optional: Mark your installation profile as exclusive, so that the installer
+; will auto-select it.
+exclusive = true
+
+; Core dependencies.
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = taxonomy
+dependencies[] = path
+
+; Contrib dependencies.
+dependencies[] = addressfield
+dependencies[] = admin_menu
+dependencies[] = adminimal_admin_menu
+dependencies[] = advanced_forum
+dependencies[] = better_exposed_filters
+dependencies[] = ctools
+dependencies[] = ckeditor
+dependencies[] = facetapi
+dependencies[] = date
+dependencies[] = devel
+dependencies[] = diff
+dependencies[] = email
+dependencies[] = entity
+dependencies[] = entityreference
+dependencies[] = features
+dependencies[] = file_entity
+dependencies[] = filefield_paths
+dependencies[] = flag
+dependencies[] = panels
+dependencies[] = jquery_update
+dependencies[] = libraries
+dependencies[] = link
+dependencies[] = masquerade
+dependencies[] = media
+dependencies[] = media_oembed
+dependencies[] = migrate
+dependencies[] = module_filter
+dependencies[] = name
+dependencies[] = pathauto
+dependencies[] = phone
+dependencies[] = rules
+dependencies[] = search_api
+dependencies[] = search_api_db
+dependencies[] = shib_auth
+dependencies[] = simplehtmldom
+dependencies[] = strongarm
+dependencies[] = token
+dependencies[] = transliteration
+dependencies[] = uuid
+dependencies[] = uuid_features
+dependencies[] = views
+
+; Custom dependencies.
+dependencies[] = gcfsikno_blog
+dependencies[] = gcfsikno_forum
+dependencies[] = gcfsikno_home
+dependencies[] = gcfsikno_library
+dependencies[] = gcfsikno_search
+dependencies[] = gcfsikno_team
+theme = spartan
+admin_theme = adminimal
+dependencies[] = spartan_layout
