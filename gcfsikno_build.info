@@ -6,6 +6,8 @@ core = 7.x
 exclusive = true
 
 ; Core dependencies.
+dependencies[] = block
+dependencies[] = blog
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = image
@@ -50,6 +52,8 @@ dependencies[] = phone
 dependencies[] = rules
 dependencies[] = search_api
 dependencies[] = search_api_db
+dependencies[] = search_api_facetapi
+dependencies[] = search_api_views
 dependencies[] = shib_auth
 dependencies[] = simplehtmldom
 dependencies[] = strongarm
@@ -58,6 +62,7 @@ dependencies[] = transliteration
 dependencies[] = uuid
 dependencies[] = uuid_features
 dependencies[] = views
+dependencies[] = views_ui
 
 ; Custom dependencies.
 dependencies[] = gcfsikno_blog
@@ -67,5 +72,4 @@ dependencies[] = gcfsikno_library
 dependencies[] = gcfsikno_search
 dependencies[] = gcfsikno_team
 theme = spartan
-admin_theme = adminimal
 dependencies[] = spartan_layout

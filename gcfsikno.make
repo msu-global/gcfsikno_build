@@ -171,6 +171,8 @@ projects[entity][version] = "1.6"
 
 projects[entityreference][version] = "1.1"
 
+projects[facetapi][version] = "1.5"
+
 projects[features][version] = "2.5"
 
 projects[file_entity][version] = "2.0-beta1"
@@ -241,39 +243,47 @@ projects[gcfsikno_blog][type] = module
 projects[gcfsikno_blog][download][type] = git
 projects[gcfsikno_blog][download][branch] = 7.x-1.x
 projects[gcfsikno_blog][download][url] = "git://github.com/msu-global/gcfsikno_blog.git"
+projects[gcfsikno_blog][options][working-copy] = TRUE
 
 projects[gcfsikno_forum][type] = module
 projects[gcfsikno_forum][download][type] = git
 projects[gcfsikno_forum][download][branch] = 7.x-1.x
 projects[gcfsikno_forum][download][url] = "git://github.com/msu-global/gcfsikno_forum.git"
+projects[gcfsikno_forum][options][working-copy] = TRUE
 
 projects[gcfsikno_home][type] = module
 projects[gcfsikno_home][download][type] = git
 projects[gcfsikno_home][download][branch] = 7.x-1.x
 projects[gcfsikno_home][download][url] = "git://github.com/msu-global/gcfsikno_home.git"
+projects[gcfsikno_home][options][working-copy] = TRUE
 
 projects[gcfsikno_library][type] = module
 projects[gcfsikno_library][download][type] = git
 projects[gcfsikno_library][download][branch] = 7.x-1.x
 projects[gcfsikno_library][download][url] = "git://github.com/msu-global/gcfsikno_library.git"
+projects[gcfsikno_library][options][working-copy] = TRUE
 
 projects[gcfsikno_search][type] = module
 projects[gcfsikno_search][download][type] = git
 projects[gcfsikno_search][download][branch] = 7.x-1.x
 projects[gcfsikno_search][download][url] = "git://github.com/msu-global/gcfsikno_search.git"
+projects[gcfsikno_search][options][working-copy] = TRUE
 
 projects[gcfsikno_team][type] = module
 projects[gcfsikno_team][download][type] = git
 projects[gcfsikno_team][download][branch] = 7.x-1.x
 projects[gcfsikno_team][download][url] = "git://github.com/msu-global/gcfsikno_team.git"
+projects[gcfsikno_team][options][working-copy] = TRUE
 
 projects[spartan][type] = theme
 projects[spartan][download][type] = git
 projects[spartan][download][branch] = 7.x-1.x
 projects[spartan][download][url] = "git://github.com/msu-global/spartan.git"
+projects[spartan][options][working-copy] = TRUE
 
 projects[spartan_layout][type] = module
 projects[spartan_layout][download][type] = git
 projects[spartan_layout][download][branch] = 7.x-1.x
 projects[spartan_layout][download][url] = "git://github.com/msu-global/spartan_layout.git"
+projects[spartan_layout][options][working-copy] = TRUE
 
