@@ -54,6 +54,7 @@ dependencies[] = search_api
 dependencies[] = search_api_db
 dependencies[] = search_api_facetapi
 dependencies[] = search_api_views
+dependencies[] = select2
 dependencies[] = shib_auth
 dependencies[] = simplehtmldom
 dependencies[] = strongarm
