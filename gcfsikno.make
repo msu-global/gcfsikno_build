@@ -211,6 +211,8 @@ projects[search_api][version] = "1.14"
 
 projects[search_api_db][version] = "1.4"
 
+projects[] = "select2"
+
 projects[shib_auth][version] = "4.1"
 
 projects[simplehtmldom][version] = "1.12"
@@ -238,7 +240,15 @@ projects[bootstrap][version] = "3.0"
 projects[responsive][version] = "1.7"
 
 
+; libraries
+libraries[select2][type] = library
+libraries[select2][download][type] = git
+libraries[select2][download][tag] = 3.5.2
+libraries[select2][download][url] = "https://github.com/select2/select2.git"
 
+
+
+; Custom modules
 projects[gcfsikno_blog][type] = module
 projects[gcfsikno_blog][download][type] = git
 projects[gcfsikno_blog][download][branch] = 7.x-1.x
