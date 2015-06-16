@@ -246,6 +246,9 @@ libraries[select2][download][type] = git
 libraries[select2][download][tag] = 3.5.2
 libraries[select2][download][url] = "https://github.com/select2/select2.git"
 
+libraries[ckeditor][type] = library
+libraries[ckeditor][download][type] = get
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.7/ckeditor_4.4.7_full.zip"
 
 
 ; Custom modules
