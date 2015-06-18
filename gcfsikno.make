@@ -201,6 +201,8 @@ projects[module_filter][version] = "2.0"
 
 projects[name][version] = "1.9"
 
+projects[panels][version] = "3.5"
+
 projects[pathauto][version] = "1.2"
 
 projects[phone][version] = "1.0-beta1"
