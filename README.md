@@ -1,4 +1,4 @@
-# gcfsino_build
+# gcfsikno_build
 A Drupal installation profile that also contains a drush make file for handling dependencies.
 
 ## How to build the GCFSI Knowledge Platform
