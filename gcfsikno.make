@@ -173,9 +173,9 @@ projects[entityreference][version] = "1.1"
 
 projects[facetapi][version] = "1.5"
 
-projects[features][version] = "2.5"
+projects[features][version] = "2.6"
 
-projects[file_entity][version] = "2.0-beta1"
+projects[file_entity][version] = "2.0-beta2"
 
 projects[filefield_paths][version] = "1.0-beta4"
 
@@ -183,7 +183,7 @@ projects[flag][version] = "3.6"
 
 projects[panels][version] = "3.5"
 
-projects[jquery_update][version] = "2.5"
+projects[jquery_update][version] = "2.6"
 
 projects[libraries][version] = "2.2"
 
@@ -191,11 +191,11 @@ projects[link][version] = "1.3"
 
 projects[masquerade][version] = "1.0-rc7"
 
-projects[media][version] = "2.x-dev"
+projects[media][version] = "2.0-beta1"
 
 projects[media_oembed][version] = "2.3"
 
-projects[migrate][version] = "2.7"
+projects[migrate][version] = "2.8"
 
 projects[module_filter][version] = "2.0"
 
@@ -209,13 +209,13 @@ projects[phone][version] = "1.0-beta1"
 
 projects[rules][version] = "2.9"
 
-projects[search_api][version] = "1.14"
+projects[search_api][version] = "1.15"
 
 projects[search_api_db][version] = "1.4"
 
 projects[] = "select2"
 
-projects[shib_auth][version] = "4.1"
+projects[shib_auth][version] = "4.3"
 
 projects[simplehtmldom][version] = "1.12"
 
